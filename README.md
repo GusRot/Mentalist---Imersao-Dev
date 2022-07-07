@@ -1,3 +1,5 @@
+###  Version README [English](./README-EN.md) 
+
 # Mentalist---Imersao-Dev
 Jogo de adivinhação criado para seu entretenimento. Desafio da Imersão DEV, template criado pela Alura. Jogue e tente vencer a máquina.
 
